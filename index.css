@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+button{
+    font-size: 30px;
+    margin: 10px 10px 10px 10px;
+    background-color: darkred;
+    color:antiquewhite;
+    border: none;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+
+}
+#number1, #number2{
+    background-color: #0d55ac;
+    color: antiquewhite;
+    height: 40px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    font-size: 30px;
+}
+
+#resultbox, #result{
+   
+    background-color:#0d55ac;
+    border: none;
+    border-radius: 10px;
+    color: antiquewhite;
+    font-size: 40px;
+    height: 50px;
+    width:50%;
+    /* margin: 10px 10px 10px 10px; */
+    margin: 10px auto;
+}
+
